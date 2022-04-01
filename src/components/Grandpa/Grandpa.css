@@ -1,0 +1,10 @@
+.grandpa-child{
+    display: flex;
+    justify-content: space-evenly;
+    border: 3px solid khaki;
+    padding: 15px;
+}
+.grandpa-child div{
+    border: 2px solid goldenrod;
+    margin-right: 10px;
+}

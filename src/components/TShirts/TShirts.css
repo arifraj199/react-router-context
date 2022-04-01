@@ -1,0 +1,24 @@
+.t-shirt{
+    height: 450px;
+    border: 1px solid lightgray;
+    border-radius: 15px;
+    
+}
+.t-shirt img{
+    height: 250px;
+}
+.t-shirt button{
+    border: none;
+    border-radius: 12px;
+    padding: 8px 35px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: blueviolet;
+    color: white;
+    cursor: pointer;
+    transition: 0.2s all ease;
+}
+.t-shirt button:hover{
+    background-color: orange;
+    color: rgb(6, 35, 73);
+}
